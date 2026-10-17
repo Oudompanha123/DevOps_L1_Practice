@@ -1,1 +1,1 @@
-# Git Final Project Practice
+# Git Activity
